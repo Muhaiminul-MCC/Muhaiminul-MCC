@@ -3,7 +3,7 @@
 <h3 align="center">A passionate ML from Bangladesh 🇧🇩</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/82/4b/87/824b877bf4c731e3fcc13a8881c3e982.jpg">
 
-- 🌱 I’m currently learning **React with MUI**
+- 🌱 I’m currently Doing **Problem solving**
 
 - 📫 How to reach me **mahi.aideveloper@gmail.com**
 
