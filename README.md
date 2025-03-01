@@ -1,6 +1,6 @@
 <img marginleft="30rem" alt="heading" src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg" />
 <h1 align="center">Hi 👋, I'm Muhaiminul islam</h1>
-<h3 align="center">A passionate ML from Bangladesh 🇧🇩</h3>
+<h3 align="center">A passionate programmer from Bangladesh 🇧🇩</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 - 🌱 I’m currently Doing **Problem solving**
