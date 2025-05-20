@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mahi.aideveloper@gmail.com**
 
-- ⚡ Fun fact **I'm learning this think at class 9**
+- ⚡ Fun fact **No fun fact. All real😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
